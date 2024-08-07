@@ -1,0 +1,30 @@
+
+
+.contianer{
+    max-width: 1082px;
+    margin: 0 auto;
+    padding: 0 16px;
+    width: 100;
+    margin-top: 100px;
+    .menu__wrapper{
+        max-width: 492px;
+        height: 200px;
+        display: flex;
+color: #fff;
+        background: #17002e;
+        border-radius: 10px;
+    }
+    .menu__photo{
+        
+display: flex;
+justify-content: center;
+align-items: center;
+p{
+    width: 208px;
+}
+    }
+    .menu__text{
+       max-width: 408px;
+       
+    }
+}
